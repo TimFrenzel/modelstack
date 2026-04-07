@@ -1,29 +1,31 @@
 # ModelStack
 
-A curated collection of real-world financial and economic Excel spreadsheets, paired with practical descriptions and use cases.
+Free Excel templates for people who'd rather track their money in a spreadsheet than pay for an app. We're a small group of finance pros, Excel nerds, and hobbyist coders who got tired of seeing the same generic budget template recycled everywhere... so we started building our own.
 
-## What's in here
+Everything here is `.xlsx`, no macros, no sign-ups. Download and go.
 
-Practical, everyday financial tools: budgeting trackers, retirement planners, debt payoff calculators, portfolio managers, and more. Not investment banking models. Just spreadsheets that people actually use.
+## What you'll find
 
-## Scope
+Stuff we actually use day to day (or built for friends who asked):
 
-**In scope:**
-- Personal budgeting and expense trackers
-- Net worth and personal finance dashboards
-- Retirement planners
-- Debt payoff and savings calculators
-- Portfolio management tools
-- Small business and side hustle trackers
-- Options trading strategy sheets
+- Monthly budgets and expense trackers
+- Net worth dashboards
+- Retirement planning calculators
+- Debt snowball / avalanche payoff sheets
+- Portfolio trackers and rebalancing tools
+- Side hustle and freelance income logs
+- Options strategy P&L sheets
 
-**Out of scope:**
-- Professional investment banking models (DCF, 3-statement, M&A, comps, etc.)
+Some of these started as quick tools for our own workflows. Others came out of Reddit threads or Slack conversations where someone said "I wish I had a spreadsheet for that." If it helps someone manage their money better, it belongs here.
 
-## File format
+## What's NOT here
 
-All files are `.xlsx`, macro-free, and sourced from public URLs (Reddit, GitHub, community forums, etc.).
+Wall Street stuff. No DCF models, no 3-statement builds, no merger models or comp tables. There are already a hundred repos for that. We're focused on the everyday tools that don't get as much love.
+
+## Contributing
+
+Got a spreadsheet you've been using for years? We'd love to see it. Open a PR or just drop an issue with a link. Check out the [contributing guide](./CONTRIBUTING.md) if you want the details on file format and folder structure.
 
 ## License
 
-MIT — see [LICENSE](./LICENSE) for details.
+MIT. Do whatever you want with these.
