@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp / lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Python (if any tooling is added later)
+__pycache__/
+*.py[cod]
+.env
+.venv/
+
+# Node (if any tooling is added later)
+node_modules/
+
+# Local config and drafts
+.agent/

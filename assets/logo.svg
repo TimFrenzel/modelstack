@@ -1,0 +1,24 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="64" y1="40" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Back sheet -->
+  <rect x="60" y="72" width="112" height="112" rx="16" fill="#BFDBFE"/>
+
+  <!-- Middle sheet -->
+  <rect x="80" y="56" width="112" height="112" rx="16" fill="#60A5FA"/>
+
+  <!-- Front sheet -->
+  <rect x="100" y="40" width="112" height="112" rx="16" fill="url(#g)"/>
+
+  <!-- Minimal grid lines -->
+  <g stroke="#E2E8F0" stroke-width="6" stroke-linecap="round">
+    <line x1="124" y1="72" x2="184" y2="72"/>
+    <line x1="124" y1="96" x2="184" y2="96"/>
+    <line x1="124" y1="120" x2="164" y2="120"/>
+  </g>
+</svg>
