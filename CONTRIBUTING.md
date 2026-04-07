@@ -13,13 +13,6 @@ If you've got a sheet that's been sitting in your Google Drive for two years doi
 
 That's it. We'll take a look and merge it if it fits.
 
-## File rules
-
-- `.xlsx` only. No `.xls`, no `.xlsm`, no Google Sheets links.
-- No macros. If it needs VBA to work, it's out of scope for this repo.
-- Formulas, conditional formatting, data validation, pivot tables... all good. The fancier the better, honestly.
-- Should open without errors in Excel. Bonus points if it works in Google Sheets and LibreOffice too, but Excel is the baseline.
-
 ## Folder structure
 
 Each spreadsheet gets its own folder under `sheets/`:
@@ -31,26 +24,28 @@ sheets/
     README.md
 ```
 
+If your project includes supporting files (a Python script that generates the sheet, a CSV data source, whatever), just toss them in the same folder. We're not strict about it.
+
 The README doesn't need to be long. Just tell us what the sheet does, who it's for, and walk through the tabs and any formulas worth mentioning. Write it like you're explaining it to a coworker, not writing a product page.
 
 ## What we're looking for
 
-Anything that helps someone manage money, track a business, plan for retirement, or just figure out where their paycheck went. Some examples of stuff we'd love to get:
+Honestly? Anything useful. Budgeting tools, business trackers, financial models, planning sheets, analytics dashboards... if it helps someone get a job done, we're interested. Some examples of stuff we'd love to get:
 
 - A rental property cash flow tracker someone's been using for their duplex
 - A freelancer's quarterly tax estimator
 - A meal planning budget sheet (yeah, that counts)
 - An options wheel strategy log
 - A simple savings goal tracker with a progress bar
+- A full DCF model with sensitivity tables
+- A project cost estimator with Gantt-style timelines
 
 We don't really care if it's polished. Some of the best sheets in here started as something someone threw together on a Sunday afternoon. If it works, it works.
 
-## What we're NOT looking for
+## A couple things to keep in mind
 
-- Investment banking models (DCF, M&A, comps, etc.). Tons of repos do that already.
-- Sheets behind paywalls or that require a login to download
-- Anything with personal data still in it. Clear out your actual numbers before submitting... obviously.
-- Sheets that are basically empty templates with no formulas or logic. We want tools, not blank grids.
+- Clear out your personal data before submitting. Replace your actual numbers with sample data... obviously.
+- Sheets should open without errors in Excel. Bonus points if they work in Google Sheets or LibreOffice too, but Excel is the baseline.
 
 ## Writing style
 
