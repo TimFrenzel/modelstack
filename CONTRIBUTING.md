@@ -4,27 +4,44 @@ Thanks for thinking about adding something. Seriously. This whole thing started 
 
 If you've got a sheet that's been sitting in your Google Drive for two years doing real work, it probably belongs here.
 
+## Before you start
+
+Check [IDEAS.md](./IDEAS.md). We keep a running backlog of sheets people want to build or find. If something there catches your eye, grab it. Or if you've already got something built, skip the backlog and just submit it.
+
 ## The short version
 
 1. Fork the repo
-2. Add your spreadsheet in `sheets/your-sheet-name/`
-3. Include a short `README.md` in that folder (what it does, how it's laid out)
-4. Open a PR
+2. Pick a category folder under `sheets/` (see below)
+3. Add your spreadsheet in `sheets/<category>/your-sheet-name/`
+4. Include a short `README.md` in that folder (what it does, how it's laid out)
+5. Open a PR
 
 That's it. We'll take a look and merge it if it fits.
 
 ## Folder structure
 
-Each spreadsheet gets its own folder under `sheets/`:
+Sheets are organized by category. Pick the closest one, don't overthink it:
 
 ```
 sheets/
-  your-sheet-name/
-    your-sheet-name.xlsx
-    README.md
+  personal-finance/
+    monthly-budget-tracker/
+      monthly-budget-tracker.xlsx
+      README.md
+  investing/
+    options-wheel-log/
+      options-wheel-log.xlsx
+      README.md
+  business/
+  real-estate/
+  freelance-and-side-hustle/
+  education-and-career/
+  other/
 ```
 
 If your project includes supporting files (a Python script that generates the sheet, a CSV data source, whatever), just toss them in the same folder. We're not strict about it.
+
+If your sheet could fit in two categories, just pick one. We can always move it later.
 
 The README doesn't need to be long. Just tell us what the sheet does, who it's for, and walk through the tabs and any formulas worth mentioning. Write it like you're explaining it to a coworker, not writing a product page.
 
