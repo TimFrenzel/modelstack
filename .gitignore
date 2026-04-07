@@ -19,3 +19,4 @@ node_modules/
 
 # Local config and drafts
 .agent/
+assets/
