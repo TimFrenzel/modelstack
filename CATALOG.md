@@ -12,7 +12,7 @@ _First sheets coming soon._
 
 ## Investing
 
-_First sheets coming soon._
+- [Factor Tilt Calculator](./sheets/investing/factor-tilt-calculator/README.md) - Estimate alpha and factor exposure with monthly return inputs and a clear summary view.
 
 ## Business
 
