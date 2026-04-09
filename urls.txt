@@ -1,0 +1,11 @@
+sheets/education-and-career/student-loan-payoff-optimizer/student-loan-payoff-optimizer.xlsx
+sheets/freelance-and-side-hustle/freelance-pnl-tracker/freelance-pnl-tracker.xlsx
+sheets/real-estate/rental-property-cash-flow-analyzer/rental-property-cash-flow-analyzer.xlsx
+sheets/real-estate/fix-and-flip-deal-analyzer/fix-and-flip-deal-analyzer.xlsx
+sheets/real-estate/short-term-rental-revenue-estimator/short-term-rental-revenue-estimator.xlsx
+sheets/real-estate/commercial-nnn-lease-analyzer/commercial-nnn-lease-analyzer.xlsx
+sheets/investing/factor-tilt-calculator/factor-tilt-calculator.xlsx
+sheets/investing/options-wheel-strategy-log/options-wheel-strategy-log.xlsx
+sheets/investing/fed-data/macro_panel_2006_2025_monthly.xlsx
+sheets/investing/mutual-fund-analytics-v1/mutual-fund-analytics-v1.xlsx
+sheets/personal-finance/roth-ira-conversion-ladder-planner/roth-ira-conversion-ladder-planner.xlsx
