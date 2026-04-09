@@ -1,4 +1,4 @@
-# Storage Deal v1
+# Storage Deal
 
 **Category:** Real Estate
 
